@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://greytigeroier.github.io</id>
     <title>会虎的实验室</title>
-    <updated>2020-03-26T13:28:27.595Z</updated>
+    <updated>2020-03-26T13:42:45.244Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://greytigeroier.github.io"/>
     <link rel="self" href="https://greytigeroier.github.io/atom.xml"/>
@@ -17,11 +17,11 @@
         </link>
         <updated>2020-03-25T11:52:40.000Z</updated>
         <summary type="html"><![CDATA[<blockquote>
-<p>这是我写的第一篇博客</p>
+<p>Pollard-Rho是一种大整数因数分解算法</p>
 </blockquote>
 ]]></summary>
         <content type="html"><![CDATA[<blockquote>
-<p>这是我写的第一篇博客</p>
+<p>Pollard-Rho是一种大整数因数分解算法</p>
 </blockquote>
 ]]></content>
     </entry>
