@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://greytigeroier.github.io</id>
     <title>会虎的实验室</title>
-    <updated>2020-03-26T06:54:45.564Z</updated>
+    <updated>2020-03-26T13:18:01.865Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://greytigeroier.github.io"/>
     <link rel="self" href="https://greytigeroier.github.io/atom.xml"/>
@@ -10,4 +10,11 @@
     <logo>https://greytigeroier.github.io/images/avatar.png</logo>
     <icon>https://greytigeroier.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 会虎的实验室</rights>
+    <entry>
+        <title type="html"><![CDATA[Pollard-Rho算法浅谈]]></title>
+        <id>https://greytigeroier.github.io/post/pollard-rho/</id>
+        <link href="https://greytigeroier.github.io/post/pollard-rho/">
+        </link>
+        <updated>2020-03-25T11:52:40.000Z</updated>
+    </entry>
 </feed>
